@@ -3,6 +3,7 @@
 - [Adapter](#adapter)
 - [Composite](#composite)
 - [Decortor](#decorator)
+- [Facade](#facade)
 
 ## Adapter <a name="adapter"></a>
 - Bridge between 2 interfaces (Useful when we work with Legacy code)
@@ -33,3 +34,11 @@
 - no of objects (more)
 - more comples for the clients
 
+## Facade <a name="facade"></a>
+- Make API easy 
+- Interface not required
+- usually a refactoring pattern
+
+## Disadvantages
+- Over usage
+- Clean up design pattern
